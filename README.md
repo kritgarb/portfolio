@@ -1,7 +1,7 @@
 
 # Benjamin Portfólio
 
-Projeto "currículo" básico inspirado em um template disponível no Start Bootstrap feito com Html, Css e Javascript.
+Projeto "currículo" básico inspirado em um template disponível no Start Bootstrap feito com HTML, CSS e JavaScript.
 
 
 
